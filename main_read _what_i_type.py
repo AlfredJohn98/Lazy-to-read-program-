@@ -6,7 +6,7 @@ machine = pyttsx3.init()
 
 machine.say ( '''
 
-Type in what you want to say and i can say it for you. Dont forget to run the program bro
+Type in what you want to say and i can say it for you. Dont forget to run the program 
 
 
 ''')
